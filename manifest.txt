@@ -6,3 +6,5 @@ mods/fancymenu.jar
 mods/geckolib-forge-1.20.1-4.8.2.jar
 mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar
 mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar
+mods/immersive-portals-3.0.6-all.jar
+mods/CustomPlayerModels-1.20-0.6.24a.jar
